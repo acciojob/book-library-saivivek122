@@ -23,9 +23,11 @@ h1{
   margin-bottom:20px;
   	
 }
-.btn{
-	width:100%;
+
+.bookinfo{
 	background-color:green;
-	border:none;
-	padding:5px
+	color:white;
+	text-align:center;
+	padding:10px;
+	border-radius:10px
 }
