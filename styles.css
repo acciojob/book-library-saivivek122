@@ -8,6 +8,9 @@ body{
 h1{
 	text-align:center;
 }
+p{
+	color:rgb(119, 119, 119);
+}
 .book-library{
 	background-color:#ffffff;
 	width:300px;
